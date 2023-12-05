@@ -6,7 +6,7 @@
     <string>Downloads the latest Adobe AIR installer and repackages it for unattended, silent installation.
 Based on jamesz's work here: https://github.com/jamesez/automunki/tree/master/adobe-air</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.pkg.AdobeAIR</string>
+    <string>com.github.bartox360.pkg.AdobeAIR</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
@@ -15,7 +15,7 @@ Based on jamesz's work here: https://github.com/jamesez/automunki/tree/master/ad
     <key>MinimumVersion</key>
     <string>0.6.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.autopkg.download.AdobeAIR</string>
+    <string>com.github.bartox360.download.AdobeAIR</string>
     <key>Process</key>
     <array>
         <dict>

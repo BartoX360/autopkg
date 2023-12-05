@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads the latest Adobe AIR installer</string>
     <key>Identifier</key>
-    <string>com.github.autopkg.download.AdobeAIR</string>
+    <string>com.github.bartox360.download.AdobeAIR</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
